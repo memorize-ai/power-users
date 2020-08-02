@@ -1,0 +1,11 @@
+{
+	"name": "memorize.ai-power-users",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "node src"
+	},
+	"dependencies": {
+		"firebase-admin": "9.0.0"
+	},
+	"private": true
+}
